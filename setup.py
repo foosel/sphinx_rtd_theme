@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""`sphinx_rtd_theme` lives on `Github`_.
+"""Based on `sphinx_rtd_theme` which lives on `Github`_.
 
 .. _github: https://www.github.com/snide/sphinx_rtd_theme
 
@@ -9,9 +9,9 @@ from sphinx_rtd_theme import __version__
 
 
 setup(
-    name='sphinx_rtd_theme',
+    name='octoprint_rtd_theme',
     version=__version__,
-    url='https://github.com/snide/sphinx_rtd_theme/',
+    url='https://github.com/foosel/sphinx_rtd_theme/tree/octoprint',
     license='MIT',
     author='Dave Snider',
     author_email='dave.snider@gmail.com',
